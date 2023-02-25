@@ -186,6 +186,11 @@ void persona::LLamar_Todos()
 
 
 
+/* Metodos pedidos por la tarea, realizamos el mismo procedimiento teniendo cuidado con los indicadores
+y utilizando la misma estructura anterior*/
+
+
+
 int persona::Asignar_Nombre( std::string elNombre )
 {
     if( !Nombre )
@@ -199,8 +204,8 @@ int persona::Asignar_Nombre( std::string elNombre )
 }
 
 
-/* Metodo para obtener el DPI a una persona (get method)
- * devuelve un string con el numero de DPI */
+/* Metodo para obtener el Nombre de a una persona (get method)
+ * devuelve un string con el Nombre */
 std::string persona::Obtener_Nombre( )
 {
     if( Nombre )
@@ -223,8 +228,8 @@ int persona::Asignar_Lugar_origen( std::string Lugar )
 }
 
 
-/* Metodo para obtener el DPI a una persona (get method)
- * devuelve un string con el numero de DPI */
+/* Metodo para obtener el Lugar a una persona (get method)
+ * devuelve un string con el Lugar */
 std::string persona::Obtener_Lugar_Origen( )
 {
     if( Lugar_nacimiento )
@@ -233,7 +238,7 @@ std::string persona::Obtener_Lugar_Origen( )
 }
 
 
-
+/* Aqui cambie los outputs para saber cuando tenemos cada caso de variable faltante*/
 
 
 int persona::Asignar_Fecha_Nacimiento( std::string anio, std::string mes, std::string dia )
@@ -246,24 +251,44 @@ int persona::Asignar_Fecha_Nacimiento( std::string anio, std::string mes, std::s
         if( !Dia )
     {
         Dia = new std::string( dia );
-        return 0;
+        return 1;
     }
         if( !Mes )
     {
         Mes = new std::string( mes );
-        return 0;
+        return 2;
     }
     
-    std::cout << "La fecha  ya fue asignado" << std::endl;
-    return 1;
+    std::cout << "La fecha  ya fue asignada" << std::endl;
+    return 3;
 }
 
 
-/* Metodo para obtener el DPI a una persona (get method)
- * devuelve un string con el numero de DPI */
+/* Metodo para obtener el Anio de a una persona (get method)
+ * devuelve un string con el Anio */
 std::string persona::Obtener_Anio_Nacimiento( )
 {
     if( Anio )
         return *Anio;
-    return "DPI no asignado";
+    return "Anio no asignado";
+}
+
+
+/* Metodo para obtener el Mes de a una persona (get method)
+ * devuelve un string con el Mes */
+std::string persona::Obtener_Mes_Nacimiento( )
+{
+    if( Mes )
+        return *Mes;
+    return "Mes no asignado";
+}
+
+/* Metodo para obtener el Dia de a una persona (get method)
+ * devuelve un string con el Dia */
+
+std::string persona::Obtener_Dia_Nacimiento( )
+{
+    if( Dia )
+        return *Dia;
+    return "Dia no asignado";
 }
