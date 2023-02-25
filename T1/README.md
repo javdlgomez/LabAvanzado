@@ -71,7 +71,8 @@ Ahora en el cpp vamos a crear nuestras nuevas funciones utilizando la misma estr
     Dia = 0;
     Mes = 0;
 
-
+    /* Funciones pedidas por la tarea:*/
+    
     int persona::Asignar_Nombre( std::string elNombre )
     {
         if( !Nombre )
