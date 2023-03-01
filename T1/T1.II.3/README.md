@@ -402,28 +402,48 @@ Código del archivo VecR3 cpp donde definimos todos nuestros métodos:
                   return tmp;
                }
 
+
 Se omitirá el código en el que se llaman los métodos y se piden la impresión de los mismos ya que se proporciona el archivo del output en consola al realizar la ejecución y mandarlo por medio de >> a un archivo de texto.
+
 
 Output en consola:
 
 
  v1 = ( 1, 0,  1  )
+ 
  v2 = ( 1, 0, -1 )
+ 
 magnitud de v1: 1.41421
+
 v3 = v1 + v2 = ( 1, 1,  0  )
+
 v4=v1 - 2*v2 = ( 1, -2,  3  )
+
 negacion v1:( -1, -0,  -1  )
+
 multiplicacion
+
 2*v1 = ( 2, 0,  2  )
+
 division
+
 v1/2 = ( 0.5, 0,  0.5  )
+
 producto int
+
 v1cdotv2 = -1
+
 producto cruz
+
 v1crossv2 = ( -1, 1,  1  )
+
 comparar vectores
+
 v1=v2 es 0
+
 v1=v1 es 1
+
 cc esfericas
+
 v1 = ( 1.41421 | 0 | 0.785398)
 
