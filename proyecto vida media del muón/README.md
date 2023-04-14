@@ -12,4 +12,5 @@
 
 
 
-Se utilizan las siguientes bases de datos: https://drive.google.com/drive/folders/1zqR1GrAz1NYlj7s4c2ADRRNs0NXW0iAT
+Las bases de datos pueden ser encontradas [aqui]( https://drive.google.com/drive/folders/1zqR1GrAz1NYlj7s4c2ADRRNs0NXW0iAT
+).
