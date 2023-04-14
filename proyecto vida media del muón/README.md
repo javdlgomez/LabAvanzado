@@ -1,12 +1,12 @@
-### Proyecto para encontrar la vida media del Muón
+# Proyecto para encontrar la vida media del Muón
 
-## Utilizando archivos .paa como bases de datos se realizan los siguientes procesos>
+### Utilizando archivos .paa como bases de datos se realizan los siguientes procesos>
 
-# Se detectan los eventos en donde ocurren los pulsos dobles.
+#### Se detectan los eventos en donde ocurren los pulsos dobles.
 
-# Se Grafican los histogramas de un archivo completo del tiempo en el cual ocurren los pulsos dobles.
+#### Se Grafican los histogramas de un archivo completo del tiempo en el cual ocurren los pulsos dobles.
 
-# Se realiza un fit expo de los histogramas obtenido.
+#### Se realiza un fit expo de los histogramas obtenido.
 
 
 
