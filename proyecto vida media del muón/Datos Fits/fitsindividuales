@@ -1,0 +1,195 @@
+root [3] GetAllPulses("LA-mml-data_1h-180320-180704.paa")
+ FCN=14.3613 FROM MIGRAD    STATUS=CONVERGED      56 CALLS          57 TOTAL
+                     EDM=2.3435e-08    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  Constant     5.53971e-01   2.69303e-01   2.56659e-04   1.60311e-03
+   2  Slope       -8.82155e-05   7.37866e-05   7.03458e-08   5.42833e+00
+
+****************************************
+Minimizer is Minuit / Migrad
+Chi2                      =      14.3613
+NDf                       =           41
+Edm                       =   2.3435e-08
+NCalls                    =           57
+Constant                  =     0.553971   +/-   0.269303    
+Slope                     = -8.82155e-05   +/-   7.37866e-05 
+
+Covariance Matrix:
+
+                    Constant       Slope
+Constant            0.072524 -1.7234e-05
+Slope            -1.7234e-05  5.4445e-09
+
+Correlation Matrix:
+
+                    Constant       Slope
+Constant                   1    -0.86729
+Slope               -0.86729           1
+
+
+
+root [4] GetAllPulses("LA-mml-data_1h-180320-182704.paa")
+Warning in <TROOT::Append>: Replacing existing TH1: Datos Medidos (Potential memory leak).
+ FCN=12.1332 FROM MIGRAD    STATUS=CONVERGED      53 CALLS          54 TOTAL
+                     EDM=1.89495e-08    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  Constant     8.69182e-01   2.72261e-01   2.45604e-04  -1.31900e-03
+   2  Slope       -1.83902e-04   1.14728e-04   1.03469e-07  -3.26763e+00
+
+****************************************
+Minimizer is Minuit / Migrad
+Chi2                      =      12.1332
+NDf                       =           31
+Edm                       =  1.89495e-08
+NCalls                    =           54
+Constant                  =     0.869182   +/-   0.272261    
+Slope                     = -0.000183902   +/-   0.000114728 
+
+Covariance Matrix:
+
+                    Constant       Slope
+Constant            0.074126 -2.6868e-05
+Slope            -2.6868e-05  1.3163e-08
+
+Correlation Matrix:
+
+                    Constant       Slope
+Constant                   1    -0.86017
+Slope               -0.86017           1
+
+
+
+
+root [5] GetAllPulses("LA-mml-data_1h-180320-175704.paa")
+Warning in <TROOT::Append>: Replacing existing TH1: Datos Medidos (Potential memory leak).
+ FCN=12.0731 FROM MIGRAD    STATUS=CONVERGED      36 CALLS          37 TOTAL
+                     EDM=6.8915e-07    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  Constant     8.17021e-01   2.48983e-01   2.60333e-04   7.89682e-03
+   2  Slope       -1.18067e-04   7.27272e-05   7.57257e-08   1.97919e+01
+
+****************************************
+Minimizer is Minuit / Migrad
+Chi2                      =      12.0731
+NDf                       =           27
+Edm                       =   6.8915e-07
+NCalls                    =           37
+Constant                  =     0.817021   +/-   0.248983    
+Slope                     = -0.000118067   +/-   7.27272e-05 
+
+Covariance Matrix:
+
+                    Constant       Slope
+Constant            0.061993 -1.4586e-05
+Slope            -1.4586e-05  5.2893e-09
+
+Correlation Matrix:
+
+                    Constant       Slope
+Constant                   1    -0.80552
+
+
+
+
+
+
+root [6] GetAllPulses("LA-mml-data_1h-180320-181704.paa")
+Warning in <TROOT::Append>: Replacing existing TH1: Datos Medidos (Potential memory leak).
+ FCN=12.6302 FROM MIGRAD    STATUS=CONVERGED      58 CALLS          59 TOTAL
+                     EDM=2.30796e-07    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  Constant     8.01639e-01   2.84821e-01   2.65345e-04   2.57513e-03
+   2  Slope       -1.34114e-04   8.82440e-05   8.23342e-08   7.25397e-01
+
+****************************************
+Minimizer is Minuit / Migrad
+Chi2                      =      12.6302
+NDf                       =           29
+Edm                       =  2.30796e-07
+NCalls                    =           59
+Constant                  =     0.801639   +/-   0.284821    
+Slope                     = -0.000134114   +/-   8.8244e-05  
+
+Covariance Matrix:
+
+                    Constant       Slope
+Constant            0.081123 -2.1536e-05
+Slope            -2.1536e-05   7.787e-09
+
+Correlation Matrix:
+
+                    Constant       Slope
+Constant                   1    -0.85684
+Slope               -0.85684           1
+
+
+
+
+
+
+root [7] GetAllPulses("LA-mml-data_1h-180320-174704.paa")
+Warning in <TROOT::Append>: Replacing existing TH1: Datos Medidos (Potential memory leak).
+ FCN=11.0031 FROM MIGRAD    STATUS=CONVERGED      43 CALLS          44 TOTAL
+                     EDM=3.26941e-08    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  Constant     9.31368e-01   3.54164e-01   2.54714e-04  -8.28806e-04
+   2  Slope       -2.32627e-04   1.52428e-04   1.09061e-07  -2.78862e-01
+
+****************************************
+Minimizer is Minuit / Migrad
+Chi2                      =      11.0031
+NDf                       =           28
+Edm                       =  3.26941e-08
+NCalls                    =           44
+Constant                  =     0.931368   +/-   0.354164    
+Slope                     = -0.000232627   +/-   0.000152428 
+
+Covariance Matrix:
+
+                    Constant       Slope
+Constant             0.12543 -4.8849e-05
+Slope            -4.8849e-05  2.3234e-08
+
+Correlation Matrix:
+
+                    Constant       Slope
+Constant                   1    -0.90487
+Slope               -0.90487           1
+
+
+
+
+root [8] GetAllPulses("LA-mml-data_1h-180320-173703.paa")
+Warning in <TROOT::Append>: Replacing existing TH1: Datos Medidos (Potential memory leak).
+ FCN=14.4926 FROM MIGRAD    STATUS=CONVERGED      53 CALLS          54 TOTAL
+                     EDM=1.48727e-09    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  Constant     7.70564e-01   3.37939e-01   2.94841e-04   3.46431e-04
+   2  Slope       -1.57914e-04   1.23096e-04   1.07387e-07   9.47362e-01
+
+****************************************
+Minimizer is Minuit / Migrad
+Chi2                      =      14.4926
+NDf                       =           28
+Edm                       =  1.48727e-09
+NCalls                    =           54
+Constant                  =     0.770564   +/-   0.337939    
+Slope                     = -0.000157914   +/-   0.000123096 
+
+Covariance Matrix:
+
+                    Constant       Slope
+Constant              0.1142 -3.7068e-05
+Slope            -3.7068e-05  1.5153e-08
+
+Correlation Matrix:
+
+                    Constant       Slope
+Constant                   1    -0.89107
+Slope               -0.89107           1
