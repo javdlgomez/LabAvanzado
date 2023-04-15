@@ -6,7 +6,7 @@ DM=3.29965e-09    STRATEGY= 1      ERROR MATRIX ACCURATE
 
 ****************************************
 Minimizer is Minuit / Migrad
-Chi2                      =      17.8099
+Chi2                      =      15.8099
 NDf                       =           13
 Edm                       =  3.29965e-09
 NCalls                    =           61
