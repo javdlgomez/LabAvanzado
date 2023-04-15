@@ -1,0 +1,93 @@
+ FCN=15.81 FROM MIGRAD    STATUS=CONVERGED      44 CALLS          45 TOTAL
+                     EDM=2.76557e-07    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  Constant     3.11875e+00   2.66681e-01   2.88499e-04  -4.81688e-03
+   2  Slope       -6.04166e-04   1.33107e-04   1.45364e-07  -6.11155e+00
+
+****************************************
+Minimizer is Minuit / Migrad
+Chi2                      =        15.81
+NDf                       =            7
+Edm                       =  2.76557e-07
+NCalls                    =           45
+Constant                  =      3.11875   +/-   0.266681    
+Slope                     = -0.000604166   +/-   0.000133107 
+
+Covariance Matrix:
+
+                    Constant       Slope
+Constant            0.071119 -2.9872e-05
+Slope            -2.9872e-05  1.7718e-08
+
+Correlation Matrix:
+
+                    Constant       Slope
+Constant                   1    -0.84153
+Slope               -0.84153           1
+
+
+
+ FCN=12.4555 FROM MIGRAD    STATUS=CONVERGED      46 CALLS          47 TOTAL
+                     EDM=4.09783e-08    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  Constant     2.70823e+00   2.71234e-01   2.62487e-04   1.49923e-03
+   2  Slope       -3.10131e-04   9.09721e-05   8.80143e-08   1.74411e+00
+
+****************************************
+Minimizer is Minuit / Migrad
+Chi2                      =      12.4555
+NDf                       =            6
+Edm                       =  4.09783e-08
+NCalls                    =           47
+Constant                  =      2.70823   +/-   0.271234    
+Slope                     = -0.000310131   +/-   9.09721e-05 
+
+Covariance Matrix:
+
+                    Constant       Slope
+Constant            0.073568 -2.0762e-05
+Slope            -2.0762e-05  8.2759e-09
+
+Correlation Matrix:
+
+                    Constant       Slope
+Constant                   1    -0.84141
+Slope               -0.84141           1
+
+
+
+
+ FCN=5.53816 FROM MIGRAD    STATUS=CONVERGED      49 CALLS          50 TOTAL
+                     EDM=2.18277e-10    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  Constant     2.84898e+00   2.66592e-01   1.55504e-04   1.67739e-04
+   2  Slope       -2.53714e-04   8.08129e-05   4.71181e-08   4.92587e-01
+
+****************************************
+Minimizer is Minuit / Migrad
+Chi2                      =      5.53816
+NDf                       =            7
+Edm                       =  2.18277e-10
+NCalls                    =           50
+Constant                  =      2.84898   +/-   0.266592    
+Slope                     = -0.000253714   +/-   8.08129e-05 
+
+Covariance Matrix:
+
+                    Constant       Slope
+Constant            0.071071 -1.9048e-05
+Slope            -1.9048e-05  6.5307e-09
+
+Correlation Matrix:
+
+                    Constant       Slope
+Constant                   1    -0.88415
+Slope               -0.88415           1
+
+
+
+
+

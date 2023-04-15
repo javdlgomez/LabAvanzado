@@ -1,0 +1,26 @@
+DM=3.29965e-09    STRATEGY= 1      ERROR MATRIX ACCURATE 
+  EXT PARAMETER                                   STEP         FIRST   
+  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
+   1  Constant     4.69819e+00   7.50027e-02   1.04544e-04  -1.64237e-03
+   2  Slope       -4.19299e-04   2.39478e-05   3.33765e-08  -3.67040e+00
+
+****************************************
+Minimizer is Minuit / Migrad
+Chi2                      =      17.8099
+NDf                       =           13
+Edm                       =  3.29965e-09
+NCalls                    =           61
+Constant                  =      4.69819   +/-   0.0750027   
+Slope                     = -0.000419299   +/-   2.39478e-05 
+
+Covariance Matrix:
+
+                    Constant       Slope
+Constant           0.0056254  -1.352e-06
+Slope             -1.352e-06   5.735e-10
+
+Correlation Matrix:
+
+                    Constant       Slope
+Constant                   1    -0.75275
+Slope               -0.75275           1
