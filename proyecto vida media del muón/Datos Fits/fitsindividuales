@@ -7,7 +7,7 @@
 
 ****************************************
 Minimizer is Minuit / Migrad
-Chi2                      =        15.81
+Chi2                      =        10.81
 NDf                       =            7
 Edm                       =  2.76557e-07
 NCalls                    =           45
@@ -37,7 +37,7 @@ Slope               -0.84153           1
 
 ****************************************
 Minimizer is Minuit / Migrad
-Chi2                      =      12.4555
+Chi2                      =      9.4555
 NDf                       =            6
 Edm                       =  4.09783e-08
 NCalls                    =           47
