@@ -130,7 +130,7 @@ Código del script:
      
  ## Resultados Histgrama 40 Bins:
  
- #### Se obtiene el siguiente histograma y fit de la distribución:
+ ### Se obtiene el siguiente histograma y fit de la distribución:
  
 
  ![canvas](https://user-images.githubusercontent.com/100542213/232902143-f34f9c5a-8f5e-4d94-9273-8f1a1c8c6f84.png)
