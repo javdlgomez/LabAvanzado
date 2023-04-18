@@ -136,13 +136,18 @@ Código del script:
  ### Se obtienen los siguientes parámetros para el fit:
  
 
-Minimizer is Minuit / Migrad
 Chi2                      =      49.3031
+
 NDf                       =           35
+
 Edm                       =  4.16531e-08
+
 NCalls                    =          922
-Constant                  =         8424   +/-   439.634     
-Mean                      =      2154.75   +/-   1.80022     
+
+Constant                  =         8424   +/-   439.634    
+
+Mean                      =      2154.75   +/-   1.80022 
+
 XScaling                  =      1.91203   +/-   0.0861593   
 
 
