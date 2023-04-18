@@ -131,8 +131,8 @@ Código del script:
  # Se obtiene el siguiente histograma y fit de la distribución:
  
 
- [![image alt text](https://github.com/javdlgomez/LabAvanzado/blob/main/Tarea%202/2.II.1/Histogramas/HistogramaT240.pdf)](https://github.com/javdlgomez/LabAvanzado/blob/main/Tarea%202/2.II.1/Histogramas/HistogramaT240.pdf)
- 
+ ![canvas](https://user-images.githubusercontent.com/100542213/232902143-f34f9c5a-8f5e-4d94-9273-8f1a1c8c6f84.png)
+
  # Se obtienen los siguientes parámetros para el fit:
  
  
