@@ -131,8 +131,7 @@ Código del script:
  # Se obtiene el siguiente histograma y fit de la distribución:
  
 
- ![Alt text]([https://assets.digitalocean.com/articles/alligator/boo.svg "a title"](https://github.com/javdlgomez/LabAvanzado/blob/main/Tarea%202/2.II.1/Histogramas/HistogramaT240.pdf))
- 
+![Alt text](https://github.com/javdlgomez/LabAvanzado/blob/main/Tarea%202/2.II.1/Histogramas/HistogramaT240.pdf)
  
  # Se obtienen los siguientes parámetros para el fit:
  
