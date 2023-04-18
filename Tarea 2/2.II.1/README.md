@@ -13,6 +13,8 @@ Luego de tener los datos se realiza el histograma con los mismos y se crea una i
 
 Para realizar lo que se nos pide primero creamos un metodo que puede analizar el archivo de la base de datos y depurarlo para poder llenar nuestra lista de valores deseados para el histograma.
 
+Además se realizaron distintas configuraciones de histogramas respecto al número de bines y se obtiene el cual produce el resultado de chi2 sobre grados de libertad más cercano a uno sin aumentar considerablemente la cantidad de bines del fenómeno.
+
 
 Código del script:
 
@@ -126,14 +128,14 @@ Código del script:
         Histograma();
      }
      
- ## Resultados:
+ ## Resultados Histgrama 40 Bins:
  
  #### Se obtiene el siguiente histograma y fit de la distribución:
  
 
  ![canvas](https://user-images.githubusercontent.com/100542213/232902143-f34f9c5a-8f5e-4d94-9273-8f1a1c8c6f84.png)
 
- ### Se obtienen los siguientes parámetros para el fit:
+ #### Se obtienen los siguientes parámetros para el fit:
  
 
 Chi2                      =      49.3031
