@@ -135,16 +135,7 @@ Código del script:
 
  ### Se obtienen los siguientes parámetros para el fit:
  
- 40 bins 
-CN=49.3031 FROM MIGRAD    STATUS=CONVERGED     921 CALLS         922 TOTAL
-                     EDM=4.16531e-08    STRATEGY= 1      ERROR MATRIX ACCURATE 
-  EXT PARAMETER                                   STEP         FIRST   
-  NO.   NAME      VALUE            ERROR          SIZE      DERIVATIVE 
-   1  Constant     8.42400e+03   4.39634e+02   7.82254e-01   8.54209e-07
-   2  Mean         2.15475e+03   1.80022e+00   6.02030e-03   4.98682e-05
-   3  XScaling     1.91203e+00   8.61593e-02   1.52057e-04   5.74969e-03
 
-****************************************
 Minimizer is Minuit / Migrad
 Chi2                      =      49.3031
 NDf                       =           35
@@ -154,19 +145,6 @@ Constant                  =         8424   +/-   439.634
 Mean                      =      2154.75   +/-   1.80022     
 XScaling                  =      1.91203   +/-   0.0861593   
 
-Covariance Matrix:
 
-                    Constant        Mean    XScaling
-Constant          1.9328e+05      -178.1     -32.487
-Mean                  -178.1      3.2408    0.040283
-XScaling             -32.487    0.040283   0.0074234
-
-Correlation Matrix:
-
-                    Constant        Mean    XScaling
-Constant                   1    -0.22504    -0.85767
-Mean                -0.22504           1     0.25971
-XScaling            -0.85767     0.25971           1
- 
  
  
