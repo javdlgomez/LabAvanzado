@@ -1,0 +1,3 @@
+/home/yogurtcongelado/Desktop/CarpetaRut/builder/CMakeFiles/RuEx.exe.dir
+/home/yogurtcongelado/Desktop/CarpetaRut/builder/CMakeFiles/edit_cache.dir
+/home/yogurtcongelado/Desktop/CarpetaRut/builder/CMakeFiles/rebuild_cache.dir
