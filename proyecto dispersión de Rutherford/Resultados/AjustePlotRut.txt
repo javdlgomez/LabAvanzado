@@ -1,0 +1,26 @@
+[2023-05-10 00:14:04	Gráfica: ''Gráfica1'']
+Ajuste no lineal del conjunto de datos: Tabla1_2, usando función : A/(sin(x/2)^4)
+Ordenar: No
+Método de Ponderación: Sin ponderación
+Levenberg-Marquardt escalado algoritmo con tolerancia = 1e-06
+Desde x = 0.0000000000000e+00 a x = 1.3500000000000e+02
+
+Parámetro                           Valor                                    Error                                    
+---------------------------------------------------------------------
+A                                           3.6724012793835e-01   2.8011002344265e+01  
+---------------------------------------------------------------------
+Los errores fueron multiplicados con sqrt(Chi^2/doF) = 1.8592373388500e+04
+
+Estadísticas                                                     Tabla1_2                                                          
+---------------------------------------------------------------------------
+N (puntos)                                                       9                                                                        
+Grados de libertad (doF)                               8                                                                        
+Chi^2/doF                                                       3.4567634821741e+08                               
+RSS (Suma Residual de Cuadrados)            2.7654107857393e+09                               
+R                                                                        nan                                                                   
+R^2                                                                   -1.4650157072693e-01                              
+R^2 ajustado                                                   -1.4650157072693e-01                              
+RMSE (Error de la raíz cuadrada media)     1.8592373388500e+04                               
+Iteraciones                                                      2                                                                        
+Estado                                                              cannot reach the specified tolerance in F  
+---------------------------------------------------------------------------
