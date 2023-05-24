@@ -1,3 +1,0 @@
-/home/yogurtcongelado/Desktop/pFinal/CMakeFiles/exampleLA02.exe.dir
-/home/yogurtcongelado/Desktop/pFinal/CMakeFiles/edit_cache.dir
-/home/yogurtcongelado/Desktop/pFinal/CMakeFiles/rebuild_cache.dir
